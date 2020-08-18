@@ -1,3 +1,9 @@
+# ARCHIVED
+
+This repo is archived, visit the [mono repo](https://github.com/gravwell/gravwell) for current code.
+
+## Winevent
+
 This is a slightly tweaked version of the the Elastic winevent package which can interact with the windows Event subsystem.
 
 The code is licensed under Apache 2.0
